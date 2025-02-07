@@ -1,6 +1,4 @@
-Berikut adalah **README.md** untuk panduan lengkap penggunaan **PhpSpreadsheet** di CodeIgniter 3, termasuk instalasi, impor, ekspor, dan integrasi dengan database menggunakan arsitektur **MVC**.
 
----
 
 # **PhpSpreadsheet Integration in CodeIgniter 3**
 
@@ -224,6 +222,3 @@ http://localhost/your_project/index.php/excel
 
 🚀 Now, you can easily manage **Excel file uploads and downloads** in your CodeIgniter 3 project!
 
----
-
-Itu dia **README.md** yang lengkap dan siap digunakan! Jika ada pertanyaan, tinggal tanya. 😊
